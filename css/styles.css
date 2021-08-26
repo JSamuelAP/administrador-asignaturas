@@ -1,0 +1,45 @@
+:root {
+  --yellow-gb: #fff3cd;
+  --yellow-border: #ffc107;
+  --green-gb: #d1e7dd;
+  --green-border: #198754;
+  --blue-gb: #cfe2ff;
+  --blue-border: #0d6efd;
+  --purple-gb: #e2d9f3;
+  --purple-border: #6f42c1;
+  --pink-gb: #f7d6e6;
+  --pink-border: #d63384;
+  --red-gb: #f8d7da;
+  --red-border: #dc3545;
+  --orange-gb: #ffe5d0;
+  --orange-border: #fd7e14;
+}
+
+.card.yellow {
+  background-color: var(--yellow-gb);
+  border-color: var(--yellow-border);
+}
+.card.green {
+  background-color: var(--green-gb);
+  border-color: var(--green-border);
+}
+.card.blue {
+  background-color: var(--blue-gb);
+  border-color: var(--blue-border);
+}
+.card.purple {
+  background-color: var(--purple-gb);
+  border-color: var(--purple-border);
+}
+.card.pink {
+  background-color: var(--pink-gb);
+  border-color: var(--pink-border);
+}
+.card.red {
+  background-color: var(--red-gb);
+  border-color: var(--red-border);
+}
+.card.orange {
+  background-color: var(--orange-gb);
+  border-color: var(--orange-border);
+}
